@@ -1,9 +1,9 @@
 # Analyzing news headlines with spaCy
 
 [SpaCy](https://spacy.io/) wraps industrial-strength natural language processing capabilites into a Python library with an elegant and powerful API.
-The notebook in this repo demonstrates its use for entity extraction on a real world news dataset.
+The notebook in this repo demonstrates its use for Named Entity Recognition (NER) on a real world news dataset.
 
-![Sentences with named entities highlighted.](https://user-images.githubusercontent.com/6513950/101164655-455bbb80-362d-11eb-9512-5986f1f0bdb0.png)
+![Sentences with named entities highlighted.](images/NER.png)
 
 We take a public domain dataset of [Reuters news headlines](https://www.kaggle.com/notlucasp/financial-news-headlines) and use spaCY to extract named entities.
 We demonstrate three example downstream use cases:
