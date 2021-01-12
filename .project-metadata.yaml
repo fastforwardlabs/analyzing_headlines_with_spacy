@@ -1,4 +1,4 @@
-name: Analyzing news deadlines with spaCy
+name: Analyzing headlines with spaCy
 description: Demonstrating Named Entity Recognition and some downstream analysis on a Reuters news dataset.
 author: Cloudera Inc.
 specification_version: 1.0
