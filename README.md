@@ -14,6 +14,6 @@ We demonstrate three example downstream use cases:
 ## Instructions
 
 To run the notebook, start a Python 3 Jupyter notebook server.
-Library and dependencies are installed inline in the notebook.
+Library and model dependencies are installed inline in the notebook.
 
 Happy hacking!
