@@ -1,4 +1,4 @@
-# Analyzing headlines with spaCy
+# Analyzing News Headlines with SpaCy
 
 [SpaCy](https://spacy.io/) wraps industrial-strength natural language processing capabilites into a Python library with an elegant and powerful API.
 The notebook in this repo demonstrates its use for Named Entity Recognition (NER) on a real world news dataset.
